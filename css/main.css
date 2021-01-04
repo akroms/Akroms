@@ -75,6 +75,9 @@ p a:hover {
     color: lightgreen;
 }
 
+hr {
+    font-weight: bold;
+}
 section {
     margin-top: 5rem;
     text-align: center;
