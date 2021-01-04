@@ -15,7 +15,7 @@ Instagram: [@akrom abdulvohidov](https://www.instagram.com/mr__akrom/)
 
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://omar.pro) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/Akrom_Official?color=green&label=Follow%20%40shoxruxpro&logoColor=blue&style=for-the-badge)](https://twitter.com/Akrom_Official)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Akrom_Official?color=green&label=Follow%20%40Akrom Abdulvokhidov&logoColor=blue&style=for-the-badge)](https://twitter.com/Akrom_Official)
 
 
 `
@@ -50,6 +50,6 @@ Instagram: [@akrom abdulvohidov](https://www.instagram.com/mr__akrom/)
 <br />
 <br />
 
-[linkedin]: https://linkedin.com/in/shoxruxpro
+[linkedin]: https://linkedin.com/in/akrom-abdulvokhidov-4099881/
 
 
