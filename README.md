@@ -52,5 +52,6 @@ Instagram: [@akrom abdulvohidov](https://www.instagram.com/mr__akrom/)
 
 [linkedin]: https://linkedin.com/in/akrom-abdulvokhidov-4099881/
 [Twitter]: https://twitter.com/Akrom_Official
+[Instagram]: https://www.instagram.com/mr__akrom/
 
 
