@@ -50,14 +50,6 @@ Instagram: [@akrom abdulvohidov](https://www.instagram.com/mr__akrom/)
 <br />
 <br />
 
-### Github Stats
-![Omar's github stats](https://github-readme-stats.vercel.app/api?username=Akrom409&show_icons=true&theme=radical)
-
-
-  <img align="left" alt="Akrom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Akrom409&show_icons=true&hide_border=true&theme=radical" />
-
-</details> -->
-
 [linkedin]: https://linkedin.com/in/shoxruxpro
 
 
