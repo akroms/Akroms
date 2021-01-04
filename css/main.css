@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Redressed', cursive;
+    font-size: 18px;
+}
+
+.container {
+    background-color: blue;
+    height: 84px;
+}
+
+a {
+    color: white;
+    text-decoration: none; 
+    padding: 30px;
+    font-size: 20px;
+}
+.nav-item {
+    padding-top: 27px;
+    padding-left: 65rem;
+}
