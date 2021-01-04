@@ -8,11 +8,9 @@
 
 **📧 Contact me:**
  
-Telegram: [@akrom abdulvohidov](https://t.me/usmon_masudjonov)
+Telegram: [@akrom abdulvohidov](https://t.me/akrom_offical)
 
-Youtube: [@akrom abdulvohidov](https://youtube.com/usmonmasudjonov)
-
-Instagram: [@@akrom abdulvohidov](https://www.instagram.com/usmon_masudjonov/)
+Instagram: [@@akrom abdulvohidov](https://www.instagram.com/mr__akrom/)
 
 ![akrom abdulvohidovs github stats](https://github-readme-stats.vercel.app/api?username=akrom409&show_icons=true&theme=react)
 
