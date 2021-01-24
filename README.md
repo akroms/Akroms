@@ -1,7 +1,5 @@
 # Hello, welcome to my page!
-### 👨🏻‍💻 I am Frontend developer
-
->Love coding
+### 💻 
 
 **📧 Contact me:**
 
