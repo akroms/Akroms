@@ -8,8 +8,8 @@
 
 You can find and get touch with me on these accounts 👀
 
-[![LinkedIn Badge](https://img.shields.io/badge/ermolnik-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akrom-abdulvokhidov-4099881/)
+[![LinkedIn Badge](https://img.shields.io/badge/Akrom-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akrom-abdulvokhidov-4099881/)
 
-[![Twitter Badge](https://img.shields.io/badge/ermolnik-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mr__akrom)
+[![Twitter Badge](https://img.shields.io/badge/Akrom-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mr__akrom)
 
 ![Profile views](https://gpvc.arturio.dev/akroms)
