@@ -4,7 +4,7 @@
 
 # ٱلسَّلَامُ عَلَيْكُمْ <br> Bro
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;Enthusiasti+IT+Specialist;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;Enthusiastic+IT+Specialist;)
 
 ## 📫 How to reach me
 
