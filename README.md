@@ -4,6 +4,8 @@
 
 # ٱلسَّلَامُ عَلَيْكُمْ <br> Bro
 
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Web+Developer;)
+
 ## 📫 How to reach me
 
 You can find and get touch with me on these accounts 👀
